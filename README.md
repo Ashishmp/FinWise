@@ -1,1 +1,1 @@
-# Fin_wise
+# FinWise
